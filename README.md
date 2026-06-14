@@ -89,7 +89,6 @@ These help me design more efficient and scalable systems beyond typical web deve
 - 🌐 Portfolio: https://www.krisztiannagy.tech
 - 💼 Upwork: https://www.upwork.com/freelancers/~0195594b2a4077e412
 - 💻 Freelancer: https://www.freelancer.com/u/zsoltkrisztiann
-- 🐙 GitHub: https://github.com/poky1084
 
 ---
 
